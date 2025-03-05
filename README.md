@@ -7,3 +7,4 @@ Since well logging interpretation data contains abundant reservoir information, 
 The well-logging curves are shown below:
 ![image](https://github.com/user-attachments/assets/301ccacc-a25f-46ee-844c-8a07af976545)
 
+For any inquiries, discussions, or citation requests, please feel free to contact Pu Wang via email at wpprospect1991@gmail.com.
